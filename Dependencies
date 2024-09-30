@@ -1,0 +1,6 @@
+The project requires the following libraries:
+
+    -Python 3.7+
+    -PyTorch
+    -NumPy
+    -Matplotlib
