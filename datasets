@@ -1,0 +1,17 @@
+Input Data (Independent Variables):
+
+    dollar_rate: Values of the dollar exchange rate (one of the variables used for predicting gasoline prices in Turkey)
+        [30.3394, 31.2159, 32.3436, 32.3971, 32.2454, 32.9854, 33.0102, 33.9844]
+
+    policy_interest_rate: Values of the policy interest rate (%)
+        [45, 45, 50, 50, 50, 50, 50, 50]
+
+    oil_price: Values of crude oil prices (in USD per barrel)
+        [82.18, 82.05, 87.26, 87.25, 82.24, 84.85, 79.12, 78.94]
+
+Output Data (Dependent Variable):
+
+    gasoline_price: Values of gasoline prices (in TL per liter)
+        [39.79, 42.67, 44.98, 45.28, 43.11, 44.15, 46.55, 44.36]
+
+These datasets are used to build a linear regression model and make predictions. 
